@@ -14,7 +14,7 @@ function App() {
           <th>No.</th>
           <th>Name</th>
           <th>Founder</th>
-          <th>Date</th>
+          <th>Founded In</th>
         </tr>
         <tr>
           <td>1</td>
